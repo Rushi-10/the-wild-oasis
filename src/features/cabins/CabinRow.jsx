@@ -86,6 +86,7 @@ function CabinRow({ cabin }) {
         <span>&mdash;</span>
       )}
       <div>
+      
         <Modal>
           <Menus>
             <Menus.Toggle id={cabinId} />
